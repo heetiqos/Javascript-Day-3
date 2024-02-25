@@ -1,0 +1,23 @@
+.container{
+    margin: 3em 2em;
+}
+
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @media (width <= 768px) {
+    #img{
+        width: 100%;
+        margin: 2rem 5%;}  
+  }
+  
+  @media (width <= 480px){
+      #img{
+        width: 100%;
+        margin: 2rem 5%;}  
+  }
+  /* my media queries is not working right :(
